@@ -12,5 +12,6 @@ git reflog
 
 ### 版本回退
 
-git reset
+git reset --hard HEAD^
 
+### 
