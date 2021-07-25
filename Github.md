@@ -10,3 +10,7 @@ git log
 
 git reflog
 
+### 版本回退
+
+git reset
+
